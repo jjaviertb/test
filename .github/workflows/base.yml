@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+                 
+      - name: Conventional Commit - Action
+        uses: srgoogle23/conventionalcommits-action@1.0.1
+
