@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.1](https://github.com/jjaviertb/test/releases/tag/v1.1) - 2023-10-24 17:45:47
+
+Major issue
+
+### Bug Fixes
+
+- general:
+  - fix!: add new change ([2aed49b](https://github.com/jjaviertb/test/commit/2aed49b97c19221ac6535af749356c2506b731f7)) ([#7](https://github.com/jjaviertb/test/pull/7))
+
 ## [v1.0](https://github.com/jjaviertb/test/releases/tag/v1.0) - 2023-10-24 17:32:45
 
 *No description*
